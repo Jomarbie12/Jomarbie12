@@ -1,0 +1,13 @@
+![bb](https://user-images.githubusercontent.com/102345890/160063736-a555aa5d-b39e-4de2-8f4d-0d242e2e3ab6.PNG)
+- 👋 Hi, I’m @Jomarbie12
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Jomarbie12/Jomarbie12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![Capture](https://user-images.githubusercontent.com/102345890/160063766-aef2044d-b649-421b-a6b4-62d9a4d1ccee.PNG)
+![Capture](https://user-images.githubusercontent.com/102345890/160063782-8627c3f1-e185-4ca1-8631-f5d0c8e6d545.PNG)
